@@ -10,7 +10,7 @@ class Main {
     System.out.println( 8 < 5 && 3 >= 2);
     
     // Print the result of 8 < 5 OR 3 >= 2
-    System.out.println(8 < 5  3 >= 2);
+    System.out.println(8 < 5 || 3 >= 2);
     
     // Print the result of NOT 8 < 5
     System.out.println(!(8 < 5));
